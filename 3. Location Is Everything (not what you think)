@@ -1,1 +1,104 @@
+How I Actually Qualify Helium Mobile vs GEODNET
 
+Early on, I tried to judge Helium Mobile and GEODNET locations with the same mental checklist. That was a mistake. They look similar from far away-antennas, cables, roofs-but they reward completely different things. Over time, I ended up with two very different ways of “seeing” a location depending on which network I’m deploying for.
+
+One thing they do share though: both absolutely require steady, reliable internet. Past that, everything diverges.
+
+How I Think About Helium Mobile (Indoor)
+
+For Helium Mobile indoor hotspots, I eventually stopped overcomplicating it. The strongest signal is still the simplest:
+
+Are there lots of people here, and are they actively on their phones?
+
+That’s the core of it.
+
+I look for:
+
+Consistent foot traffic
+
+People who actually hang around, not just pass through
+
+Environments where phones are naturally in people’s hands
+(gyms, cafés, waiting rooms, lounges, barbershops, small businesses with dwell time)
+
+Because the hardware is relatively cheap, I don’t need every location to be perfect. I’m willing to deploy into:
+
+Sub-optimal business locations
+
+Places that might start slow
+
+Sites that need months before they really show anything
+
+Helium, for me, is a long-term demand game, not a precision install game. Some of my weakest-looking sites early on improved later as:
+
+Carrier routing changed
+
+More subscribers appeared
+
+Local behavior shifted
+
+On the internet side, Helium is demanding:
+
+I generally assume you need real broadband
+
+Roughly 100 Mbps down / 10 Mbps up for a site to be “comfortable”
+
+Anything flaky or throttled shows up fast in performance
+
+So my real Helium qualification test is very human:
+
+Do people actually stay here?
+
+Do they scroll, stream, and use data?
+
+Does this place feel alive across different days and times?
+
+Is the internet truly stable, not just “advertised fast”?
+
+If yes, I’m willing to try it-even if the location looks imperfect on paper.
+
+How I Think About GEODNET (RTK / Space Weather)
+
+GEODNET ignores human behavior almost completely. People don’t matter. Geometry and uptime do.
+
+This is my simple mental model for checking sky quality:
+
+I take the height of the install point.
+
+I draw an imaginary horizontal plane at that height.
+
+From that horizon line, I allow about 10 degrees of vertical clearance.
+
+Beyond that, everything should be clean sky.
+
+If trees, buildings, or terrain push heavily into that 10-degree window, I already know the station will never be ideal. But once a site clears that basic threshold, most “good enough” locations behave very similarly in earnings.
+
+Yes-exceptional GEODNET stations do exist, and some earn more. But I no longer chase those outliers. In practice, chasing perfection usually increases:
+
+Install complexity
+
+Host dependence
+
+Permission fragility
+
+Risk of total loss if the site disappears
+
+What actually dominates GEODNET outcomes long-term is:
+
+Can I secure the NFT?
+
+Can I keep the station online for years?
+
+Can uptime stay high without constant intervention?
+
+A boring rooftop with decent sky, stable power, and low human risk will usually outperform a technically beautiful site that vanishes in six months. Here, uptime and control compound harder than peak performance.
+
+On internet requirements, GEODNET is incredibly light:
+
+It may only need ~10 Mbps up or less
+
+Total data usage can be as low as ~3 GB for an entire month
+
+Reliability matters far more than speed
+
+This makes GEODNET viable in places where Helium would never work-and also means you should never risk a GEODNET station to chase premium internet the way you might for Helium.
