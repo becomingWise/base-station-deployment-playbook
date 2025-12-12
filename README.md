@@ -1,5 +1,4 @@
 # base-station-deployment-playbook
-General Overview
 
 This guide comes from real deployments, real mistakes, and real time spent trying to make GEODNET and Helium Mobile actually work in the field. It’s not based on theory or screenshots of dashboards-it’s based on mounting hardware, losing sites, troubleshooting bad internet, dealing with power issues, waiting on carrier approvals, watching rewards fluctuate, and slowly learning what matters and what doesn’t.
 
