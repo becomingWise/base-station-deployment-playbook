@@ -7,7 +7,7 @@ If this project helped you, inspired you, or saved you time, you can optionally 
   - ZEC: u153lzz2z0nprvcsdqz43fsm2t9jfdajvupavkpu3k4g28pvjaetglqqf46zr3uktq66c5frnrgqgtc60a8y43y7wyk4l3eq0u96936rauk7m3ld58e2zcdunlap2gerakh9s6vawa5arg50nnrq3m97ecsgvrm76nmjxp2zkukqqcnu5v
 
 -xmr :
-86nCNuJHadXHAKYFt6b37ebtb2h7zdXPAM3GziUgU28JMjNJ8AJnCkh4bQj6qRAv6JbF29S23RfvDihPBJGYHNzBP1V1qjw
+87mSKQ2MVceVBTUsGqyQJRhSW9fZUjX6fK6eVXCzqfYeKqE9kLYv6jhJcUTgNEhGTpbLbJTL6PPoN8rEqyZPnDicHqJHEFs
 
 ## 🔍 What donations support
 - Open-source development
